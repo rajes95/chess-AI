@@ -7,6 +7,7 @@ Both files require python version 3.5 or greater and uses the built in Turtle Gr
 
 Both files can be run directly from console in Linux and MacOS with python3 and no other dependencies.
 
-In order to run the chess AI game, type: 				                      python3 chessAI.py
+In order to run the chess AI game, type: 				python3 chessAI.py
 
-In order to run the chessAI genetic algorithm used to optimize the heuristic, type: python3 chessAIGeneticAlgo.py
+In order to run the chessAI genetic algorithm 
+used to optimize the heuristic, type:           python3 chessAIGeneticAlgo.py
